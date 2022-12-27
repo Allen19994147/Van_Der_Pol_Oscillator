@@ -1,5 +1,7 @@
-# Van_Der_Pol_Oscillator
+# Van_Der_Pol_Oscillator # Synchronizaiton
 
-Using Van Der Pol Oscillator as a system to be studied.
-Built an observer for the system to estimate its velocity based on its position measurement using contraction analysis.
-Designed a controller to synchronize two Van Der Pol Oscillators based on velocity estimation.
+In this task, the dynamic of a Van Der Pol Oscillator is studied.
+
+An observer is designed to estimate its velocity based on its position measurement using contraction analysis.
+
+A controller is designed to synchronize two Van Der Pol Oscillators based on velocity estimation.
